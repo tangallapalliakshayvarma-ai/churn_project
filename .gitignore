@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor stuff
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated files
+ann_churn_predictions_for_powerbi.csv
