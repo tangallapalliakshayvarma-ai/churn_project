@@ -18,12 +18,11 @@ This project predicts whether a **bank customer will churn (leave the bank)** us
 
 ## 🔗 Live Demo
 
-🚀 **Streamlit App:**  
-https://portfolio-fx5wudr4gvjrsddtnvuvsz.streamlit.app/
+### 🚀 Click below to open the deployed Streamlit application ⬇️
 
-(Open on mobile or desktop, enter customer details, and see churn probability in real time.)
+🔗 **Live Churn Prediction App:**  
+👉 https://portfolio-fx5wudr4gvjrsddtnvuvsz.streamlit.app/
 
----
 
 ## 📂 Project Structure
 
